@@ -79,7 +79,7 @@
 	</a>
 </p>
 
-<h3 align="left">Frontend stuff</h3>
+<h3 align="left">Frontend stuff:</h3>
 <p align="left">
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer">
 		<img
@@ -123,7 +123,7 @@
 	</a>
 </p>
 
-<h3 align="left">Other stuff I'm familiar with</h3>
+<h3 align="left">Other stuff I'm familiar with:</h3>
 <p align="left">
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
