@@ -12,6 +12,15 @@
 			height="30"
 			width="40"
 	/></a>
+	    <a href="https://twitch.tv/helltf" target="blank"
+		><img
+			align="center"
+			src="./twitch-icon.svg"
+			alt="helltf"
+			height="30"
+			width="40"
+	/></a>
+    <span>hell#9902</span>
 </p>
 
 <h3 align="left">Some programming languages I know:</h3>
