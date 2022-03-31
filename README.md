@@ -17,7 +17,7 @@
 			align="center"
 			src="./twitch-icon.svg"
 			alt="helltf"
-			height="30"
+			height="40"
 			width="40"
 	/></a>
     <span>hell#9902</span>
