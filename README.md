@@ -1,6 +1,7 @@
 ![Header](./helltf-header.png)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
+
 <p align="left">
 	<a href="https://twitter.com/helltfx" target="blank"
 		><img
@@ -21,7 +22,8 @@
     <span>hell#9902</span>
 </p>
 
-<h3 align="left">Programming languages I've used</h3>
+## Programming languages I've used
+
 <p align="left">
 	<a
 		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -85,7 +87,8 @@
 	</a>
 </p>
 
-<h3 align="left">Frontend technologies</h3>
+## Frontend technologies
+
 <p align="left">
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img
@@ -153,7 +156,8 @@
 	</a>
 </p>
 
-<h3 align="left">Databases</h3>
+## Databases
+
 <p align="left">
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
 		<img
@@ -189,7 +193,8 @@
 	</a>
 </p>
 
-<h3 align="left">Other stuff I'm familiar with</h3>
+## Other stuff I'm familiar with
+
 <p align="left">
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
@@ -304,3 +309,7 @@
 		/>
 	</a>
 </p>
+
+## Github Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=helltf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
