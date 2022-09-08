@@ -1,6 +1,6 @@
 ![Header](./helltf-header.png)
 
-## Connect with me
+## My Socials
 
 <p align="left">
 	<a href="https://twitter.com/helltfx" target="blank"
