@@ -154,7 +154,7 @@
 			height="40"
 		/>
 	</a>
-  <a> href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.solidjs.com/assets/logo.123b04bc.svg"
 			alt="solidjs"
