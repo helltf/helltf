@@ -85,6 +85,13 @@
 			height="40"
 		/>
 	</a>
+		<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
+			alt="lua"
+			width="40"
+			height="40"
+		/>
 </p>
 
 ## Frontend technologies
@@ -244,6 +251,13 @@
 			height="40"
 		/>
 	</a>
+	<a href="hhttps://neovim.io" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"
+			alt="neovim"
+			width="40"
+			height="40"
+		/>
 	<a href="https://graphql.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
