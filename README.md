@@ -251,7 +251,7 @@
 			height="40"
 		/>
 	</a>
-	<a href="hhttps://neovim.io" target="_blank" rel="noreferrer">
+	<a href="https://neovim.io" target="_blank" rel="noreferrer">
 		<img
 			src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"
 			alt="neovim"
