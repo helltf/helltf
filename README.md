@@ -19,7 +19,6 @@
 			height="40"
 			width="40"
 	/></a>
-    <span>hell#9902</span>
 	<a href="https://gitlab.com/helltf" target="blank"
 		><img
 			align="center"
@@ -28,6 +27,7 @@
 			height="40"
 			width="40"
       </a>
+    <span>hell#9902</span>
 </p>
 
 ## Programming languages I've used
