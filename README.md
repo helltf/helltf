@@ -26,7 +26,7 @@
 			alt="helltf"
 			height="40"
 			width="40"
-      </a>
+      /></a>
     <span>hell#9902</span>
 </p>
 
