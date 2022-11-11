@@ -8,7 +8,7 @@
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 			alt="helltf"
-			height="30"
+			height="40"
 			width="40"
 	/></a>
 	    <a href="https://twitch.tv/helltf" target="blank"
@@ -20,6 +20,14 @@
 			width="40"
 	/></a>
     <span>hell#9902</span>
+	<a href="https://gitlab.com/helltf" target="blank"
+		><img
+			align="center"
+			src="https://about.gitlab.com/images/press/press-kit-icon.svg"
+			alt="helltf"
+			height="40"
+			width="40"
+      </a>
 </p>
 
 ## Programming languages I've used
