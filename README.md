@@ -1,10 +1,4 @@
-<div style="display:flex">
-	<p>Hi, </p>
-	<img src="./okay.png" width="20" height="20"/>
-	<p>👋</p>
-</div>
-
-Hi, ![okay](./okay.png | width=24) 👋
+Hi, <img src="./okay.png" width="20" height="20"> 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-helltfx-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/helltfx)](https://www.twitter.com/helltfx)
 [![Twitch Badge](https://img.shields.io/badge/-helltf-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/helltf)](http://twitch.tv/helltf)
