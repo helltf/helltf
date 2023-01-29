@@ -1,13 +1,11 @@
-<div style="display:flex; align-items: center; gap: 8px;">
-<p>Hi, </p>
-<img src="./okay.png" width="20" height="20"/>
-<p>👋</p>
+<div >
+<p>Hi, </p><img src="./okay.png" width="20" height="20"/><p>👋</p>
 </div>
 
 [![Twitter Badge](https://img.shields.io/badge/-helltfx-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/helltfx)](https://www.twitter.com/helltfx)
 [![Twitch Badge](https://img.shields.io/badge/-helltf-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/helltf)](http://twitch.tv/helltf)
 [![Gitlab Badge](https://img.shields.io/badge/-helltf-FC6D26?style=flat-square&logo=gitlab&logoColor=white&link=https://www.gitlab.com/helltf)](http://gitlab.com/helltf)
-[![Discord Badge](https://img.shields.io/badge/-hell%239902-5865F2?style=flat-square&logo=discord&logoColor=white)]
+[![Discord Badge](https://img.shields.io/badge/-hell%239902-5865F2?style=flat-square&logo=discord&logoColor=white)]()
 
 ## My Socials
 
