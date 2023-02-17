@@ -1,7 +1,5 @@
 ## Hi, <img src="./okay.png" width="20" height="20"> 👋
 
-## Socials
-
 <p align="center">
   <b><a href="">Discord: hell#9902</a></b>
 •
