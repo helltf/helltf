@@ -2,16 +2,25 @@
 
 ## Socials
 
-[![Twitter Badge](https://img.shields.io/badge/-helltfx-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/helltfx)](https://www.twitter.com/helltfx)
-[![Twitch Badge](https://img.shields.io/badge/-helltf-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/helltf)](http://twitch.tv/helltf)
-[![Gitlab Badge](https://img.shields.io/badge/-helltf-FC6D26?style=flat-square&logo=gitlab&logoColor=white&link=https://www.gitlab.com/helltf)](http://gitlab.com/helltf)
-[![Discord Badge](https://img.shields.io/badge/-hell%239902-5865F2?style=flat-square&logo=discord&logoColor=white)]()
+<p align="center">
+  <b><a href="">Discord: hell#9902</a></b>
+•
+  <b><a href="http://twitch.tv/helltf">Twitch</a></b>
+•
+  <b><a href="https://www.twitter.com/helltfx">Twitter</a></b>
+•
+  <b><a href="http://gitlab.com/helltf">Gitlab</a></b>
+</p>
 
 ## Technologies
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
-![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-%231BB91F?&style=for-the-badge&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8?&style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind-%2306B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%232496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23f05032?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%234169e1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
