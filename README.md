@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/tmux-%231BB91F?&style=for-the-badge&logo=tmux&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8?&style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwind-%2306B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%234169e1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%232496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23f05032?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/arch-%231793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/>
 </p>
